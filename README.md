@@ -44,6 +44,11 @@ Various algorithms were compared, with Random Forest, AdaBoost, and KNN achievin
 Ensemble methods and neural networks showed superior performance. Future work involves implementing a multi-layered hierarchical structure for improved practical applicability in real-world scenarios.  
   
 
-Streamlit Video Link - https://ai-in-network-security.streamlit.app/  
-Streamlit Video - https://drive.google.com/drive/folders/1QzMBKPM6A1o9dFjF5bA0ye31ihiJVvrn  
+Streamlit App Link - https://ai-in-network-security.streamlit.app/  
+Drive Link - https://drive.google.com/drive/folders/1QzMBKPM6A1o9dFjF5bA0ye31ihiJVvrn  
+Streamlit Video - 
   
+
+
+https://github.com/BinaryBeast-007/AI_for_Network_Security/assets/111415996/157448c8-0c34-4d97-bbc7-02dd25cf995b
+
